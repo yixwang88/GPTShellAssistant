@@ -34,4 +34,8 @@ To make it permanent, add the above line to your shell configuration file (~/.zs
 3. Exit the chat by pressing Enter without typing anything:
 >_: (Press Enter)
 Goodbye! 😸👋
+---
 
+## 🛡️ Customization
+1. System Message: Modify the SYSTEM_MESSAGE variable in gpt.py to change how GPT responds.
+2. Switch between `gpt-3.5-turbo`, `gpt-4`, or any other available model based on your requirements.
