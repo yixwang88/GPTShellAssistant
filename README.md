@@ -19,10 +19,10 @@
 `pip install openai`
 3. **Set Your OpenAI API Key:** (Add your OpenAI API key as an environment variable)
 
->export OPENAI_API_KEY="sk-your-api-key"
+`>export OPENAI_API_KEY="sk-your-api-key"`
 To make it permanent, add the above line to your shell configuration file (~/.zshrc or ~/.bashrc).
 4. **Add an Alias** (For ease of use, add this alias to your shell configuration so you can use globally in your terminal)
-`alias chat="/opt/homebrew/bin/python3 /path/to/your/project/gpt.py"`
+`>alias chat="/opt/homebrew/bin/python3 /path/to/your/project/gpt.py"`
 
 
 ### Ready to use in your terminal
